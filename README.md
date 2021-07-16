@@ -13,9 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br> 
-<image align="center" src="https://github-readme-stats.vercel.app/api?username=pias97&theme=monokai"> 
+<image align="center" src="https://github-readme-stats.vercel.app/api?username=pias97&show_icons=true&theme=monokai"> 
 <br> 
 
-<br>
-  [![Ranabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pias97)]
-<br>
+
