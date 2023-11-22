@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ranabir Devnath
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Analytics, Software Development
-- 🌱 I’m currently learning Database Management and Machine Learning
-- 💞️ I’m looking to collaborate on Deep Learning and Machine Learning Projects
+- 👀 I’m interested in AI, Data Analytics, Software Development, Cloud Engineering
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me ... 
 [`Facebook`](https://www.facebook.com/pias.debnath/)
 [`Linkedin`](https://www.linkedin.com/in/ranabir-devnath-3b9611139/)
