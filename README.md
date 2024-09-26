@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ranabir Devnath
-- 👀 I’m interested in AI, Data Analytics, Software Development, Cloud Engineering
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in Project Management, Software Development, DevOps
 - 📫 How to reach me ... 
 [`Facebook`](https://www.facebook.com/pias.debnath/)
 [`Linkedin`](https://www.linkedin.com/in/ranabir-devnath-3b9611139/)
