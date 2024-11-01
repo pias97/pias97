@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pias</h1>
 
-<p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A Computer+Science+Undergraduate;A DevOps%20|%20Cloud%20%20Enthusiast;An Aspiring+Learner&center=true&width=500&height=50"></a>
-</p>
-
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
@@ -16,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working as a **Tech Support Engineer** eagerly waiting to enter into DevOps world.
+🔭 I’m currently working as a Tech Support Engineer and am eagerly waiting to enter the DevOps world.
 
 - 🌱 I’m currently learning **AWS, K8S**
 
