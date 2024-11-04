@@ -85,7 +85,8 @@
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pias97\&theme=midnight-purple\&show_icons=true&locale=en&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pias97\&theme=midnight-purple\&show_icons=true&locale=en&layout=donut) 
+
 
 ![Ranabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pias97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
