@@ -18,7 +18,7 @@
 - 📫 How to reach me **ranabir.devnath@gmail.com**
 
 - 👯 I’m looking to collaborate with Cloud projects
-- ⚡ I love Music and photography.
+- ⚡ I love Music and Mobile photography.
 
 
 <br>
@@ -81,10 +81,12 @@
 <h3 align="left">GitHub Stats:</h3>
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pias97\&theme=midnight-purple\&show_icons=true&locale=en&layout=compact)
+
 
 <div align="center">
- 
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pias97\&theme=midnight-purple\&show_icons=true&locale=en&layout=compact) 
+
 ![Ranabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=pias97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pias97&theme=midnight-purple)](https://git.io/streak-stats)
